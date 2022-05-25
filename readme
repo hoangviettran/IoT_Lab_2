@@ -1,0 +1,7 @@
+BKIoT_Lab_2 file contains the unity project and I use unity version 2020.3.31f for this project.
+the Python file is used to publicize the information to the mqttserver.tk.
+Using instruction:
+step 1: open the python file and run it.
+step 2: running the unity project.
+notice: 
+- if not running the python file, the unity project won't be able to take the information about temperature and humidity (display 0)
